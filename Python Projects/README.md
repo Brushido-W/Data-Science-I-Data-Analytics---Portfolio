@@ -1,1 +1,13 @@
 # README
+
+
+Password Strength Cheaker
+
+The function checks for the following password requirements:
+1.Length should be at least 8 characters.
+2.Should contain at least one uppercase letter.
+3.Should contain at least one lowercase letter.
+4.Should contain at least one digit.
+5.Should contain at least one special character.
+
+Based on these criteria, the function categorizes the password into one of four strength levels: 'Weak', 'Moderate', 'Strong', or 'Very Strong'.
