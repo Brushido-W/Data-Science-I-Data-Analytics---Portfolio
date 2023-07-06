@@ -8,11 +8,11 @@ This repository contains a collection of Python projects that I have created. Ea
 
    This project is a password strength checker that evaluates the strength of a given password based on predefined criteria. 
    The function checks for the following password requirements:
-       - 1.Length should be at least 8 characters.
-       2.Should contain at least one uppercase letter.
-       3.Should contain at least one lowercase letter.
-       4.Should contain at least one digit.
-       5.Should contain at least one special character.
+   - Length should be at least 8 characters.
+   - Should contain at least one uppercase letter.
+   - Should contain at least one lowercase letter.
+   - Should contain at least one digit.
+   - Should contain at least one special character.
 
    Based on these criteria, the function categorizes the password into one of four strength levels: 'Weak', 'Moderate', 'Strong', or 'Very Strong'.
 
