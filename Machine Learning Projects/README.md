@@ -1,26 +1,23 @@
-# Machine Learning Projects
+# Excel Projects
 
-This repository contains a collection of Machine Learning Projects that I have created. Each project focuses on different aspects of Machine Learning with python and showcases various concepts and functionalities.
+Welcome to the Excel Projects repository! This collection features a variety of projects focusing on data analysis, visualization, and complex calculations using Microsoft Excel. Each project is designed to address different data-related challenges and showcase my proficiency in harnessing the power of spreadsheets for insightful decision-making.
 
 ## Projects
 
-1. **Sentiment Analysis using Neural Networks**
+1. **Inventory Analysis**
 
-   This Project focuses on implementing a basic form of Natural Language Processing (NLP) known as Sentiment Analysis. The objective is to develop two distinct neural networks using Keras to classify book reviews as either positive or negative.
+   Explore a comprehensive Excel project that delves into inventory management. Key metrics include item values, availability, stock status, and more. The project aims to provide a dynamic and user-friendly dashboard for effective inventory analysis. The dashboard is designed to showcase data for specific months, allowing for tailored analyses based on real-time and historical data.
 
+2. **Supply Chain Analysis**
 
-2. **Using Keras to Build and Train Recurrent Neural Networks**
+   Dive into this Excel project that focuses on supply chain optimization. Metrics such as defect date, availability, lead time, and supplier defect rate are analyzed to derive valuable insights for informed decision-making. The project aims to establish a user-friendly dashboard for effective supply chain analysis, allowing for filterable metrics by both months and product.
 
-   Develop a LSTM network in Keras to solve a time-series prediction problem for International Airline Passengers. Predict the number of passengers (in units of 1,000) for the next month based on the current month's data.
+3. **Sentiment Analysis for Book Reviews**
 
-3. **Recognizing CIFAR-10 images with Deep Learning**
+   In this project, two different neural networks in Keras are implemented to classify book reviews as either positive or negative. The project is broken down into steps, including getting the dataset, preprocessing the data, building the model, training and testing the model, and making predictions. The dataset used is a small portion of the Multi-Domain Sentiment Dataset, specifically focusing on book reviews.
 
-   This project implements the popular Snake Game using Python and the Pygame library. Players control a snake that grows in length by consuming food while avoiding collisions with walls or its own body. To 
-   control the snake the comands W,A,S and D are used.
+4. **Unsupervised Machine Learning**
 
-
-  
-
-
+   This project explores the differences between various cities using unsupervised learning methods, including Principal Component Analysis (PCA) and various clustering techniques. The data contains information on 48 cities with 4 variables each. The project involves exploring data, performing correlation analysis, implementing PCA, and conducting cluster analysis using both Hierarchical Clustering and K-means. The goal is to compare the results and gain insights into city differences.
 
 
