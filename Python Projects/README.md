@@ -19,7 +19,7 @@ This repository contains a collection of Python projects that I have created. Ea
 2. **Hangman Game**
 
    The Hangman Game is a classic word-guessing game. Players try to guess a hidden word by suggesting letters within a certain number of attempts. The game requests you to pick a category to make the 
-   experience more enjoyable and if you guess the wrong letter 6 times you lose!
+   experience more enjoyable and if you guess the wrong letter 6 times you lose!!
 
 
 3. **Snake Game**
