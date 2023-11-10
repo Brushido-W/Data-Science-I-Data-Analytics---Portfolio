@@ -13,7 +13,7 @@ Welcome to my Data Science - Data Analytics Portfolio! This repository showcases
 3. **SQL Projects:**
    - In the SQL projects folder, I will share my data analysis projects that involve querying and processing data using SQL. As I am continuously working on new SQL projects, more content will be added soon.
 
-I am passionate about data and continuously honing my data analytics skills. The projects in this portfolio demonstrate my ability to derive valuable insights and make data-driven decisions. 
+# I am passionate about data and continuously honing my data analytics skills. The projects in this portfolio demonstrate my ability to derive valuable insights and make data-driven decisions. 
 
 Please feel free to explore the projects in the respective folders. Your feedback and suggestions are highly appreciated as I strive to enhance my data analytics abilities and add more valuable content to this portfolio.
 
