@@ -19,7 +19,7 @@ Welcome to the **Inventory Dashboard Set-Up** project, a comprehensive Excel end
 5. **Stock Status:**
    - Evaluate the current status of your stock, providing an overview of stock levels and informing decisions related to purchasing and sales strategies.
 
-## Filterable Metrics by Months:
+### Filterable Metrics by Months:
 
 1. **Purchased Items by Groups:**
    - Filter and analyze items purchased based on predefined groups, aiding in the assessment of procurement strategies over different months.
@@ -27,7 +27,7 @@ Welcome to the **Inventory Dashboard Set-Up** project, a comprehensive Excel end
 2. **Sold Items by Groups:**
    - Filter and examine items sold based on predefined groups, allowing for a nuanced understanding of sales patterns across different months.
 
-## Filterable Metrics by Product:
+### Filterable Metrics by Product:
 
 1. **Quantity Available:**
    - Filter and track the quantity available for specific products, providing a granular view of individual product stock levels.
