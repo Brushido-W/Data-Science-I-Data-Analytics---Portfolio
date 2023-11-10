@@ -1,4 +1,4 @@
-# User Engagement Projects
+# Python Projects
 
 This repository contains a collection of Python projects that I have created. Each project focuses on different aspects of Python programming and showcases various concepts and functionalities.
 
