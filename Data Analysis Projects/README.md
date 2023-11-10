@@ -1,5 +1,4 @@
-# Data Analysis Projects
-
+# Data Analysis Projects (Jupyter Notebooks)
 This repository contains a collection of Data Analysis Projects that I have created. Each project focuses on different aspects of Python programming and showcases various concepts and functionalities.
 
 ## Projects
