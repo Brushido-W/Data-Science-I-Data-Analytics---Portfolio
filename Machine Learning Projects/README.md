@@ -6,7 +6,7 @@ This repository contains a collection of Machine Learning Projects that I have c
 
 1. **Sentiment Analysis using Neural Networks**
 
-This Project focuses on implementing a basic form of Natural Language Processing (NLP) known as Sentiment Analysis. The objective is to develop two distinct neural networks using Keras to classify book reviews as either positive or negative.
+   This Project focuses on implementing a basic form of Natural Language Processing (NLP) known as Sentiment Analysis. The objective is to develop two distinct neural networks using Keras to classify book reviews as either positive or negative.
 
 
 2. **Using Keras to Build and Train Recurrent Neural Networks**
