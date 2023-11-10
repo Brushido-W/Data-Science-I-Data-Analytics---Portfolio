@@ -12,12 +12,4 @@ Welcome to the Excel Projects repository! This collection features a variety of 
 
    Dive into this Excel project that focuses on supply chain optimization. Metrics such as defect date, availability, lead time, and supplier defect rate are analyzed to derive valuable insights for informed decision-making. The project aims to establish a user-friendly dashboard for effective supply chain analysis, allowing for filterable metrics by both months and product.
 
-3. **Sentiment Analysis for Book Reviews**
-
-   In this project, two different neural networks in Keras are implemented to classify book reviews as either positive or negative. The project is broken down into steps, including getting the dataset, preprocessing the data, building the model, training and testing the model, and making predictions. The dataset used is a small portion of the Multi-Domain Sentiment Dataset, specifically focusing on book reviews.
-
-4. **Unsupervised Machine Learning**
-
-   This project explores the differences between various cities using unsupervised learning methods, including Principal Component Analysis (PCA) and various clustering techniques. The data contains information on 48 cities with 4 variables each. The project involves exploring data, performing correlation analysis, implementing PCA, and conducting cluster analysis using both Hierarchical Clustering and K-means. The goal is to compare the results and gain insights into city differences.
-
 
