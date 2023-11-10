@@ -1,4 +1,4 @@
-# 🚧🔨 **Under Construction - Excel Projects** 🔨🚧
+# **Excel Projects** 
 
 Welcome to the Excel Projects repository! This collection features a variety of projects focusing on data analysis, visualization, and complex calculations using Microsoft Excel. Each project is designed to address different data-related challenges and showcase my proficiency in harnessing the power of spreadsheets for insightful decision-making.
 
