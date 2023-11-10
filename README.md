@@ -4,13 +4,17 @@ Welcome to my Data Science - Data Analytics Portfolio! This repository showcases
 
 ## Folders:
 
-1. **Power BI Projects:**
+1.**Excel Projects:**
+
+Uncover insights from my Excel projects, where I harness the power of spreadsheets for effective data analysis and visualization. From data organization to complex calculations, these projects highlight my proficiency in leveraging Excel for diverse data tasks.
+
+2. **Power BI Projects:**
    - In this folder, you will find a collection of Power BI projects that demonstrate my ability to create interactive and insightful data visualizations. Please note that I am actively working on adding more projects to this section, so stay tuned for updates.
 
-2. **Python Projects:**
+3. **Python Projects:**
    - Here, you can explore my data analytics projects using Python. From data cleaning and manipulation to machine learning, these projects showcase my proficiency in utilizing Python for data analysis tasks.
 
-3. **SQL Projects:**
+4. **SQL Projects:**
    - In the SQL projects folder, I will share my data analysis projects that involve querying and processing data using SQL. As I am continuously working on new SQL projects, more content will be added soon.
 
 ## About me
