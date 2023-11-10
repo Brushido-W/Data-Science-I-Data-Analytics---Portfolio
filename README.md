@@ -4,7 +4,7 @@ Welcome to my Data Science - Data Analytics Portfolio! This repository showcases
 
 ## Folders:
 
-1.**Excel Projects:**
+1. **Excel Projects:**
 
 Uncover insights from my Excel projects, where I harness the power of spreadsheets for effective data analysis and visualization. From data organization to complex calculations, these projects highlight my proficiency in leveraging Excel for diverse data tasks.
 
